@@ -17,9 +17,10 @@ os.system(['','color D'][os.name == 'nt'])
 print '''
                 SELAMAT DATANG
                      DI
-                ACEH CYBER TEAM
-           CODE: BY R15ky Ch4nn3L
-     FACEBOOK RECOVERY PASSWORD ATTACKER  
+                The Doctor Cyber
+           CODE: BY The Doctor
+     FACEBOOK RECOVERY PASSWORD ATTACKER
+  
  _____              _                 _
 |  ___|_ _  ___ ___| |__   ___   ___ | | __
 | |_ / _` |/ __/ _ \ '_ \ / _ \ / _ \| |/ /
@@ -48,7 +49,7 @@ while True:
             word = open(wordlist, 'r').readlines()
             print "[+] Kode Nya Tersimpan \!/\n[+] Codes:",len(word)
         except("IOError"):
-            print "[-] Hanya dalam Format .txt Ngentod :v"
+            print "[-] Hanya dalam Format .txt Tolol :v"
             sys.exit(1);
 
         for w in word:
@@ -64,12 +65,12 @@ while True:
             if search:
                 print "[+] Kode Yang Ini "+w+" Bener anda beuntung^___^ "
             else:
-                print "[+] Kode Yangini "+w+" Salah nyan >:( "
+                print "[+] Kode Yangini "+w+" Salah goblok >:( "
     else:
 
         print """
 
-        Selamat Datang Di Tools Saya Masukan Proxy:Port Anda Beb:*
+        Selamat Datang Di Tools Saya Masukan Proxy:Port Anda :*
 
         Penggunaan : [ip:port]
 
